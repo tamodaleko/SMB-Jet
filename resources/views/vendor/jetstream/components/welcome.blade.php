@@ -102,7 +102,7 @@
         Our plans scale for any organization — from startups to Fortune 500s.
       </p>
     </div>
-    <div class="grid max-w-screen-md gap-10 md:grid-cols-3 sm:mx-auto">
+    <div class="grid max-w-screen-lg gap-10 md:grid-cols-3 sm:mx-auto">
       <div>
         <div class="p-8 bg-gray-900 rounded">
           <div class="mb-4 text-center">
